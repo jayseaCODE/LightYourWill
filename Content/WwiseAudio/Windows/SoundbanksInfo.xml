@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>C:\Wwise Projects\Light_Your_Will\</ProjectRoot>
+		<SourceFilesRoot>C:\Wwise Projects\Light_Your_Will\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\GitClones\LightYourWill\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Wwise Projects\Light_Your_Will\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="85412153" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Ambience</ObjectPath>
+			<ShortName>Ambience</ShortName>
+			<Path>Ambience.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1060106358" Name="Play_Indoor_Ambience" ObjectPath="\Events\Default Work Unit\Play_Indoor_Ambience"/>
+				<Event Id="2019603999" Name="Play_Night_Ambience" ObjectPath="\Events\Default Work Unit\Play_Night_Ambience"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="3337035" Language="SFX">
+					<ShortName>Indoor Ambience.wav</ShortName>
+					<Path>SFX\Indoor Ambience_9E69E797.wem</Path>
+				</File>
+				<File Id="819854330" Language="SFX">
+					<ShortName>Outdoor Ambience.wav</ShortName>
+					<Path>SFX\Outdoor Ambience_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="530129416" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Teleport</ObjectPath>
+			<ShortName>Teleport</ShortName>
+			<Path>Teleport.bnk</Path>
+			<IncludedEvents>
+				<Event Id="281003139" Name="Play_Teleport_1" ObjectPath="\Events\Default Work Unit\Play_Teleport_1"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="555000100" Language="SFX">
+					<ShortName>Teleport-alt.wav</ShortName>
+					<Path>SFX\Teleport-alt_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="595159780" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Orb</ObjectPath>
+			<ShortName>Orb</ShortName>
+			<Path>Orb.bnk</Path>
+			<IncludedEvents>
+				<Event Id="653163971" Name="Collect_Orb" ObjectPath="\Events\Default Work Unit\Collect_Orb"/>
+				<Event Id="1716343712" Name="Play_Blue_Orb" ObjectPath="\Events\Default Work Unit\Play_Blue_Orb"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="34772970" Language="SFX">
+					<ShortName>Orb 2.wav</ShortName>
+					<Path>SFX\Orb 2_17395830.wem</Path>
+				</File>
+				<File Id="292833476" Language="SFX">
+					<ShortName>Collect - Orb.wav</ShortName>
+					<Path>SFX\Collect - Orb_F306F7E2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2061918516" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Blocker_Sounds</ObjectPath>
+			<ShortName>Blocker_Sounds</ShortName>
+			<Path>Blocker_Sounds.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1603024559" Name="Play_Break_Concrete" ObjectPath="\Events\Default Work Unit\Play_Break_Concrete"/>
+				<Event Id="2879509657" Name="Play_Break_Stone" ObjectPath="\Events\Default Work Unit\Play_Break_Stone"/>
+				<Event Id="1471872846" Name="Play_WArning" ObjectPath="\Events\Default Work Unit\Play_WArning"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="306858150" Language="SFX">
+					<ShortName>Blocker Break (Outdoor).wav</ShortName>
+					<Path>SFX\Blocker Break (Outdoor)_9E69E797.wem</Path>
+				</File>
+				<File Id="342946735" Language="SFX">
+					<ShortName>Cavern.wav</ShortName>
+					<Path>Plugins\iZotope Hybrid Reverb\Cavern_CDFE2D5E.wem</Path>
+				</File>
+				<File Id="1012432927" Language="SFX">
+					<ShortName>Bocker Warning.wav</ShortName>
+					<Path>SFX\Bocker Warning_9E69E797.wem</Path>
+				</File>
+				<File Id="1018306032" Language="SFX">
+					<ShortName>Blocker Break (Indoor).wav</ShortName>
+					<Path>SFX\Blocker Break (Indoor)_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\Default Work Unit\Play_Footsteps"/>
+				<Event Id="1394744726" Name="Play_Footsteps__Outdoor_" ObjectPath="\Events\Default Work Unit\Play_Footsteps__Outdoor_"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="7441101" Language="SFX">
+					<ShortName>Cloth Rustle w zip 4.wav</ShortName>
+					<Path>SFX\Cloth Rustle w zip 4_9E69E797.wem</Path>
+				</File>
+				<File Id="10520023" Language="SFX">
+					<ShortName>Cloth Rustle 4.wav</ShortName>
+					<Path>SFX\Cloth Rustle 4_9E69E797.wem</Path>
+				</File>
+				<File Id="37882855" Language="SFX">
+					<ShortName>Cloth Rustle w zip 3.wav</ShortName>
+					<Path>SFX\Cloth Rustle w zip 3_9E69E797.wem</Path>
+				</File>
+				<File Id="92300660" Language="SFX">
+					<ShortName>Cloth Rustle 8.wav</ShortName>
+					<Path>SFX\Cloth Rustle 8_9E69E797.wem</Path>
+				</File>
+				<File Id="123136916" Language="SFX">
+					<ShortName>Cloth Rustle 5.wav</ShortName>
+					<Path>SFX\Cloth Rustle 5_9E69E797.wem</Path>
+				</File>
+				<File Id="166116858" Language="SFX">
+					<ShortName>Concrete7.wav</ShortName>
+					<Path>SFX\Concrete7_A5CEBF59_2E91FF9C.wem</Path>
+				</File>
+				<File Id="183073104" Language="SFX">
+					<ShortName>Cloth Rustle 1.wav</ShortName>
+					<Path>SFX\Cloth Rustle 1_9E69E797.wem</Path>
+				</File>
+				<File Id="190366883" Language="SFX">
+					<ShortName>FS2_Stone.wav</ShortName>
+					<Path>SFX\FS2_Stone_9E69E797.wem</Path>
+				</File>
+				<File Id="220116952" Language="SFX">
+					<ShortName>Watch Movement 1.wav</ShortName>
+					<Path>SFX\Watch Movement 1_9E69E797.wem</Path>
+				</File>
+				<File Id="361153321" Language="SFX">
+					<ShortName>Watch Movement 4.wav</ShortName>
+					<Path>SFX\Watch Movement 4_9E69E797.wem</Path>
+				</File>
+				<File Id="405291261" Language="SFX">
+					<ShortName>Watch Movement 3.wav</ShortName>
+					<Path>SFX\Watch Movement 3_9E69E797.wem</Path>
+				</File>
+				<File Id="417493499" Language="SFX">
+					<ShortName>Grass1.wav</ShortName>
+					<Path>SFX\Grass1_71E4ABEE.wem</Path>
+				</File>
+				<File Id="418839529" Language="SFX">
+					<ShortName>Cloth Rustle 3.wav</ShortName>
+					<Path>SFX\Cloth Rustle 3_9E69E797.wem</Path>
+				</File>
+				<File Id="456272228" Language="SFX">
+					<ShortName>Watch Movement 5.wav</ShortName>
+					<Path>SFX\Watch Movement 5_9E69E797.wem</Path>
+				</File>
+				<File Id="479555771" Language="SFX">
+					<ShortName>Cloth Rustle w zip 1.wav</ShortName>
+					<Path>SFX\Cloth Rustle w zip 1_9E69E797.wem</Path>
+				</File>
+				<File Id="502694889" Language="SFX">
+					<ShortName>Cloth Rustle 6.wav</ShortName>
+					<Path>SFX\Cloth Rustle 6_9E69E797.wem</Path>
+				</File>
+				<File Id="638234015" Language="SFX">
+					<ShortName>Grass3.wav</ShortName>
+					<Path>SFX\Grass3_78CF892D.wem</Path>
+				</File>
+				<File Id="726459742" Language="SFX">
+					<ShortName>Watch Movement 2.wav</ShortName>
+					<Path>SFX\Watch Movement 2_9E69E797.wem</Path>
+				</File>
+				<File Id="744884074" Language="SFX">
+					<ShortName>Concrete5.wav</ShortName>
+					<Path>SFX\Concrete5_B35A43B7_2E91FF9C.wem</Path>
+				</File>
+				<File Id="756410391" Language="SFX">
+					<ShortName>Cloth Rustle w zip 5.wav</ShortName>
+					<Path>SFX\Cloth Rustle w zip 5_9E69E797.wem</Path>
+				</File>
+				<File Id="787514425" Language="SFX">
+					<ShortName>Concrete6.wav</ShortName>
+					<Path>SFX\Concrete6_E8ACD222_2E91FF9C.wem</Path>
+				</File>
+				<File Id="828370868" Language="SFX">
+					<ShortName>Cloth Rustle 7.wav</ShortName>
+					<Path>SFX\Cloth Rustle 7_9E69E797.wem</Path>
+				</File>
+				<File Id="849350279" Language="SFX">
+					<ShortName>Cloth Rustle 2.wav</ShortName>
+					<Path>SFX\Cloth Rustle 2_9E69E797.wem</Path>
+				</File>
+				<File Id="991691041" Language="SFX">
+					<ShortName>FS1_Stone.wav</ShortName>
+					<Path>SFX\FS1_Stone_9E69E797.wem</Path>
+				</File>
+				<File Id="1030970060" Language="SFX">
+					<ShortName>Cloth Rustle w zip 2.wav</ShortName>
+					<Path>SFX\Cloth Rustle w zip 2_9E69E797.wem</Path>
+				</File>
+				<File Id="1061904227" Language="SFX">
+					<ShortName>Grass2.wav</ShortName>
+					<Path>SFX\Grass2_9B11F7BD.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2678880713" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Fire</ObjectPath>
+			<ShortName>Fire</ShortName>
+			<Path>Fire.bnk</Path>
+			<IncludedEvents>
+				<Event Id="511772048" Name="Collect_Fire" ObjectPath="\Events\Default Work Unit\Collect_Fire"/>
+				<Event Id="3015324718" Name="Play_Fire" ObjectPath="\Events\Default Work Unit\Play_Fire"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="407273466" Language="SFX">
+					<ShortName>Fire 2.wav</ShortName>
+					<Path>SFX\Fire 2_57593221.wem</Path>
+				</File>
+				<File Id="856474799" Language="SFX">
+					<ShortName>Collect - Fire.wav</ShortName>
+					<Path>SFX\Collect - Fire_F74A3A17.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="3232033907" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Hits</ObjectPath>
+			<ShortName>Hits</ShortName>
+			<Path>Hits.bnk</Path>
+			<IncludedEvents>
+				<Event Id="693346567" Name="Play_Leaf_Brush" ObjectPath="\Events\Default Work Unit\Play_Leaf_Brush"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="16902365" Language="SFX">
+					<ShortName>Leaf Rustle 5.wav</ShortName>
+					<Path>SFX\Leaf Rustle 5_9E69E797.wem</Path>
+				</File>
+				<File Id="364388821" Language="SFX">
+					<ShortName>Leaf Rustle 4.wav</ShortName>
+					<Path>SFX\Leaf Rustle 4_9E69E797.wem</Path>
+				</File>
+				<File Id="480502471" Language="SFX">
+					<ShortName>Leaf Rustle 1.wav</ShortName>
+					<Path>SFX\Leaf Rustle 1_9E69E797.wem</Path>
+				</File>
+				<File Id="497388748" Language="SFX">
+					<ShortName>Leaf Rustle 6.wav</ShortName>
+					<Path>SFX\Leaf Rustle 6_9E69E797.wem</Path>
+				</File>
+				<File Id="769688430" Language="SFX">
+					<ShortName>Leaf Rustle 3.wav</ShortName>
+					<Path>SFX\Leaf Rustle 3_9E69E797.wem</Path>
+				</File>
+				<File Id="999024132" Language="SFX">
+					<ShortName>Leaf Rustle 2.wav</ShortName>
+					<Path>SFX\Leaf Rustle 2_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

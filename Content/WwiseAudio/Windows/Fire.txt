@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	511772048	Collect_Fire			\Default Work Unit\Collect_Fire	
+	3015324718	Play_Fire			\Default Work Unit\Play_Fire	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1229948536	Environment			\Default Work Unit\Environment	
+
+State	ID	Name	State Group			Notes
+	144697359	Outdoor	Environment			
+	340398852	Indoor	Environment			
+	748895195	None	Environment			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	40538533	Indoor	Environment	\Actor-Mixer Hierarchy\Default Work Unit\Fire_Burn\Fire		
+	384306581	Indoor	Environment	\Actor-Mixer Hierarchy\Default Work Unit\Fire_Burn\Fire\Fire 2		
+
+Effect plug-ins	ID	Name	Type				Notes
+	814089467	Oculus Spatializer (Attached)	AttachableMixerInput			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	407273466	Fire 2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Fire 2_57593221.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire_Burn\Fire\Fire 2		120928
+	856474799	Collect - Fire	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Collect - Fire_F74A3A17.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire_Collect\Fire\Collect - Fire		33756
+

@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	693346567	Play_Leaf_Brush			\Default Work Unit\Play_Leaf_Brush	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16902365	Leaf Rustle 5	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 5		179880
+	364388821	Leaf Rustle 4	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 4		218282
+	480502471	Leaf Rustle 1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 1		143612
+	497388748	Leaf Rustle 6	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 6_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 6		109174
+	769688430	Leaf Rustle 3	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 3		143308
+	999024132	Leaf Rustle 2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Leaf Rustle 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Side Wall Hit (Outdoor)\Leaf Brush\Leaf Rustle 2		115574
+

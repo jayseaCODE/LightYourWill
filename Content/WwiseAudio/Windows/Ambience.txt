@@ -1,0 +1,20 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1060106358	Play_Indoor_Ambience			\Default Work Unit\Play_Indoor_Ambience	
+	2019603999	Play_Night_Ambience			\Default Work Unit\Play_Night_Ambience	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1229948536	Environment			\Default Work Unit\Environment	
+
+State	ID	Name	State Group			Notes
+	144697359	Outdoor	Environment			
+	340398852	Indoor	Environment			
+	748895195	None	Environment			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	340257359	Outdoor	Environment	\Actor-Mixer Hierarchy\Ambience\Indoor Ambience		
+	827041836	Indoor	Environment	\Actor-Mixer Hierarchy\Ambience\Outdoor Ambience		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3337035	Indoor Ambience	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Indoor Ambience_9E69E797.wem		\Actor-Mixer Hierarchy\Ambience\Indoor Ambience		15434652
+	819854330	Outdoor Ambience	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Outdoor Ambience_9E69E797.wem		\Actor-Mixer Hierarchy\Ambience\Outdoor Ambience		33259516
+

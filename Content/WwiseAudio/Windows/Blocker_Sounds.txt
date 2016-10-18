@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1471872846	Play_WArning			\Default Work Unit\Play_WArning	
+	1603024559	Play_Break_Concrete			\Default Work Unit\Play_Break_Concrete	
+	2879509657	Play_Break_Stone			\Default Work Unit\Play_Break_Stone	
+
+Effect plug-ins	ID	Name	Type				Notes
+	423957493	Oculus Spatializer (Attached)	AttachableMixerInput			
+	476974089	Cavern (Custom)	iZotope Hybrid Reverb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	306858150	Blocker Break (Outdoor)	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Blocker Break (Outdoor)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blockers\Stone\Break_Stone\Blocker Break (Outdoor)		1151312
+	1012432927	Bocker Warning	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Bocker Warning_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blockers\WArning\Bocker Warning		575688
+	1018306032	Blocker Break (Indoor)	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Blocker Break (Indoor)_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blockers\Concrete\Break_Concrete\Blocker Break (Indoor)		1151312
+
+Plug-in Media	ID	Name	Source file	Type	Wwise Object Path	Notes	Data Size
+	342946735	Cavern (Custom)	C:\Wwise Projects\Light_Your_Will\.cache\Windows\Plugins\iZotope Hybrid Reverb\Cavern_CDFE2D5E.wem	iZotope Hybrid Reverb (Custom)	\Actor-Mixer Hierarchy\Default Work Unit\Blockers\Concrete\Cavern (Custom)		58660
+

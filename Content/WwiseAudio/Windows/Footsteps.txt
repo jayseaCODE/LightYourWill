@@ -1,0 +1,52 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1394744726	Play_Footsteps__Outdoor_			\Default Work Unit\Play_Footsteps__Outdoor_	
+	3854155799	Play_Footsteps			\Default Work Unit\Play_Footsteps	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	215506544	Footstep_Materials			\Default Work Unit\Footstep_Materials	
+
+Switch	ID	Name	Switch Group			Notes
+	841620460	Concrete	Footstep_Materials			
+	3182342576	Stone_Cobble	Footstep_Materials			
+	4248645337	Grass	Footstep_Materials			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1229948536	Environment			\Default Work Unit\Environment	
+
+State	ID	Name	State Group			Notes
+	144697359	Outdoor	Environment			
+	340398852	Indoor	Environment			
+	748895195	None	Environment			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	219742620	Indoor	Environment	\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)		
+	713768138	Outdoor	Environment	\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Indoor)		
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7441101	Cloth Rustle w zip 4	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle w zip 4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling_w_Zip\Cloth Rustle w zip 4		81256
+	10520023	Cloth Rustle 4	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 4		65894
+	37882855	Cloth Rustle w zip 3	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle w zip 3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling_w_Zip\Cloth Rustle w zip 3		83816
+	92300660	Cloth Rustle 8	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 8_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 8		53096
+	123136916	Cloth Rustle 5	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 5		59312
+	166116858	Concrete7	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Concrete7_A5CEBF59_2E91FF9C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Indoor)\Concrete\Concrete7		669760
+	183073104	Cloth Rustle 1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 1		46148
+	190366883	FS2_Stone	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\FS2_Stone_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)\Stone-Cobble\FS2_Stone		50382
+	220116952	Watch Movement 1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Watch Movement 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Jingle-Jangle\Watch Movement 1		110208
+	361153321	Watch Movement 4	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Watch Movement 4_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Jingle-Jangle\Watch Movement 4		46512
+	405291261	Watch Movement 3	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Watch Movement 3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Jingle-Jangle\Watch Movement 3		126608
+	417493499	Grass1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Grass1_71E4ABEE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)\Grass\Grass1		7338
+	418839529	Cloth Rustle 3	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 3_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 3		51268
+	456272228	Watch Movement 5	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Watch Movement 5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Jingle-Jangle\Watch Movement 5		122582
+	479555771	Cloth Rustle w zip 1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle w zip 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling_w_Zip\Cloth Rustle w zip 1		77234
+	502694889	Cloth Rustle 6	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 6_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 6		67724
+	638234015	Grass3	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Grass3_78CF892D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)\Grass\Grass3		5998
+	726459742	Watch Movement 2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Watch Movement 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Jingle-Jangle\Watch Movement 2		101006
+	744884074	Concrete5	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Concrete5_B35A43B7_2E91FF9C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Indoor)\Concrete\Concrete5		669760
+	756410391	Cloth Rustle w zip 5	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle w zip 5_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling_w_Zip\Cloth Rustle w zip 5		99908
+	787514425	Concrete6	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Concrete6_E8ACD222_2E91FF9C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Indoor)\Concrete\Concrete6		667712
+	828370868	Cloth Rustle 7	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 7_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 7		87474
+	849350279	Cloth Rustle 2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling\Cloth Rustle 2		40660
+	991691041	FS1_Stone	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\FS1_Stone_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)\Stone-Cobble\FS1_Stone		43500
+	1030970060	Cloth Rustle w zip 2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Cloth Rustle w zip 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes Rustling_w_Zip\Cloth Rustle w zip 2		100274
+	1061904227	Grass2	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Grass2_9B11F7BD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps (Outdoor)\Grass\Grass2		5600
+

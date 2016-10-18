@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	281003139	Play_Teleport_1			\Default Work Unit\Play_Teleport_1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	555000100	Teleport 1	C:\Wwise Projects\Light_Your_Will\.cache\Windows\SFX\Teleport-alt_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Teleport\Teleport 1		479296
+
